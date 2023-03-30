@@ -1,6 +1,10 @@
-## the Love in Library
+# the Love in Library
 
 It is a galgame demo.
+
+## preview
+
+Preview [here](https://worranhin.github.io/Galgame-demo/)
 
 ## credit
 
