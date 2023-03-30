@@ -1,0 +1,20 @@
+intro: Scene 1 | Introduction;
+changeBg:library.png -next;
+: MC is sitting at a table in the library, reading a book. Friend walks up to them.;
+changeFigure:friend.png -next;
+Friend: Hey MC, what's up?;
+MC: Oh, hey. Just reading this book. It's really interesting.;
+Friend: You know, you spend a lot of time in this library.;
+MC: Yeah, I know. I just love books.;
+Friend: Well, maybe you'll meet someone who shares your interests.;
+MC: (laughs) I doubt it. Everyone else here seems to be more interested in studying than reading for fun.;
+LI enters the library and walks over to the bookshelves. -next;
+changeFigure:none -next;
+changeFigure:LI.png -right -next;
+changeFigure:friend.png -left;
+Friend: Look, there's someone new.;
+MC: (whispers) Who is it?;
+Friend: I don't know, but they're cute.;
+changeFigure:none -left -next;
+:MC looks over at LI and feels a flutter in their chest.;
+changeScene:scene2.txt

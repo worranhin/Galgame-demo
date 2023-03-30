@@ -1,0 +1,3 @@
+bgm:TeaBreak.mp3;
+intro:The Love in Library;
+changeScene:scene1.txt;

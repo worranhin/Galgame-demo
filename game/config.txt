@@ -1,0 +1,4 @@
+Game_name:The Love in Library;
+Game_key:2023033011582dd8c25fe85;
+Title_bgm:s_Title.mp3;
+Title_img:library.png;

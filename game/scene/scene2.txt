@@ -1,0 +1,9 @@
+intro: Scene 2 | Getting to Know LI;
+intro: MC and LI keep running into each other at the library.; 
+They start chatting about books and sharing recommendations.; 
+MC starts to feel more and more drawn to LI.;
+MC: Hey, do you want to grab some coffee after we finish reading?;
+LI: Oh, I don't drink coffee. But we could go to the park and talk more about books if you want.;
+MC: (smiling) Sounds great.;
+changeFigure:none -right -next;
+changeScene:scene3.txt

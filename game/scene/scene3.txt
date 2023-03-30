@@ -1,0 +1,13 @@
+intro: Scene 3 | LI's Obsession with Books;
+intro: MC and LI are walking in the park, discussing their favorite books.;
+changeBg:park.png -next;
+MC: You know, I'm really glad we met. I feel like we have a lot in common.;
+changeFigure:LI-park.png -right;
+LI: (smiling) Yeah, me too. It's nice to have someone to talk to about books.;
+MC: (hesitantly) Can I ask you something?;
+LI: Sure, what is it?;
+MC: (blushing) Do you think maybe we could be more than just friends?;
+LI: (surprised) Oh, I don't know. I mean, I really like spending time with you, but books are my first love.;
+MC: (disappointed) I understand.;
+changeFigure:none -right -next;
+changeScene:scene4.txt;

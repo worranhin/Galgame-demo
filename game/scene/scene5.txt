@@ -1,0 +1,12 @@
+intro: Scene 5 | The Confession;
+MC and Friend search the library for a rare book. They finally find one and bring it to LI.;
+changeFigure:LI.png;
+LI: (amazed) Wow, I've never seen this before. How did you find it?;
+MC: (nervously) I knew you would appreciate it. I just want to show you how much I care about you.;
+LI: (smiling) You know, you're not like other people. You truly understand the beauty of books.;
+MC: (smiling) I understand the beauty of you.;
+LI: (surprised) What do you mean?;
+MC: (confidently) I mean that I've fallen in love with you. And I want to be with you, even if it means sharing you with your books.;
+LI: (smiling) That's the sweetest thing anyone's ever said to me.;
+intro: MC and LI embrace, and the camera fades to black.;
+changeScene:end.txt;
